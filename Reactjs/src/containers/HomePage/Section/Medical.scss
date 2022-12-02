@@ -1,0 +1,11 @@
+.medical-child{
+    cursor: pointer;
+
+    .medical-name{
+        padding: 10px 0;
+
+        &:hover{
+            color: rgb(8, 86, 221);
+        }
+    }
+}
